@@ -8,6 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
 		System.out.println("Hello World!!!\n");
+		System.out.print("이름입력 : ");
 		String name = s.next();
 		System.out.println("[" + name + "]님 환영합니다~");
 		
